@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">FloatingButton</string>
+    <string name="todo">TODO</string>
+    <string name="title">Compose Email</string>
+    <string name="email">Email</string>
+    <string name="subject">Subject</string>
+    <string name="content">Content</string>
 </resources>
